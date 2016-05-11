@@ -9,4 +9,5 @@ Testing and boilerplates for Augmented reality
  - Having issues getting stereo to work properly
  - Testing so far as been local and using the laptop webcam, need to push to my hosted site for mobile testing
  - Current testing has been all on Matrix Marker #20, want to test using an image based marker
- 
+
+ ![Test Image](...)
